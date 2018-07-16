@@ -1,7 +1,7 @@
 # Titanic
 Submissions and code for Titanic: Machine Learning from Disaster Kaggle competition
 
- This competition was completed by Mark Erenberg, Derek Ho, and Charlie Wu. As a team, we researched and fit a CART model,
+ This competition was completed by Mark Erenberg, Derek Ho(https://github.com/dhderekho), and Charlie Wu. As a team, we researched and fit a CART model,
  and the submission was agreed to be uploaded by Mark. However, the work that was done was split evenly amongst the three
  members :)
 
